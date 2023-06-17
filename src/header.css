@@ -1,0 +1,22 @@
+header{
+    background-color: var(--color-principal);
+    height: 60px;
+    width: 100%;
+    display: fixed;
+    justify-content: center;
+    align-items: center;
+    
+}
+#programa{
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: var(--color-fundo);
+    margin: 15px;
+}
+.logout button{
+    background-color:var(--color-principal) ;
+    font-size: 25px;
+    color: var(--color-fundo);
+    margin: 15px;
+}

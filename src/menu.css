@@ -1,0 +1,36 @@
+.menu{
+    background-color: var(--color-principal);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu svg{
+    color: var(--color-fundo);
+}
+
+.menu b{
+    color:var(--color-fundo) ;
+    margin-left: space-between ;
+}
+.menu a{
+    margin-top: auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu #destino1{
+    display: inline;
+    width: 200px;
+    margin: 10px;
+}
+
+.menu #destino2{
+    display: inline;
+    margin-right: 50px;
+    margin-left: 50px;
+}

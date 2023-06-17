@@ -1,0 +1,42 @@
+{
+  "name": "cadastro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.3",
+    "node": "^19.6.1",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue-select": "^4.0.0-beta.6",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LudmyllaAlves/Sistema-de-Cobran-a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LudmyllaAlves/Sistema-de-Cobran-a/issues"
+  },
+  "homepage": "https://github.com/LudmyllaAlves/Sistema-de-Cobran-a#readme"
+}

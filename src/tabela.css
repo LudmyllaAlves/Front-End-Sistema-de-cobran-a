@@ -1,0 +1,36 @@
+.gerenciar{
+    text-align: center;
+}
+
+table{
+    position: absolute;
+    margin: 10%;
+    margin-top: 2%;
+    border: 2px solid var(--color-principal);
+    border-collapse: collapse;
+    width: 80%;
+    color: var(---color-escuro) ;
+    font-size: 20px;
+    text-align: center;
+}
+
+table tr:nth-child(even) {background-color: var(--color-sombra);
+}
+
+
+#icone{
+    color: var(--color-fundo);
+}
+
+#iconeprincipal{
+    color: var(--color-principal);
+}
+
+table td, tr{
+    border: 2px solid var(--color-principal);
+}
+
+
+#excluir{
+    background-color: rgba(240, 248, 255, 0);
+}

@@ -1,0 +1,25 @@
+
+div.cadastro{
+    position: absolute;
+    background-color: var(--color-sombra);
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+div.cadastro label{
+    color:var(--color-principal) ;
+    font-size: 20px;
+}
+div.cadastro button{
+    color: var(--color-escuro);
+    background-color:var(--color-principal) ;
+    font-size: 25px;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+fieldset{
+    border: 3px solid var(--color-principal) ;
+}
